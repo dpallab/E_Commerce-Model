@@ -1,0 +1,6 @@
+step:1- DOM diya index.html a sob value gulo tulboo Form.js diya.
+step:2- Form.js ar modha ja sendData() a6e ota common.js ar modhe giye fetch hobe.
+step:3- common.js ar modhe [.then(res =>res.json())]   aiii line ta diye response ta JSON jabe.
+step:4- common.js ar modhai processData() hobe and process data ar modhai json ar return valu ta paboo.
+
+step:5-Firebase, express.js, bcrypt, nodemon (like, npm i Firebase)
